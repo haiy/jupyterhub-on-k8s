@@ -1,0 +1,20 @@
+language: python
+sudo: false
+python:
+  - nightly
+  - 3.6
+  - 3.5
+  - 3.4
+
+# install dependencies
+install:
+  - pip install --no-cache-dir -e .
+
+# command to run tests
+script:
+  - python setup.py test
+
+matrix:
+  fast_finish: true
+  allow_failures:
+    - python: nightly

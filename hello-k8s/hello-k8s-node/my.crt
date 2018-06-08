@@ -1,0 +1,70 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Washington/L=Seattle/O=Amazon.com Inc./CN=*.cloudfront.net
+   i:/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
+ 1 s:/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLDCCBRSgAwIBAgIQApUpeYiqOhba+LAMqCJc6DANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
+aWdpQ2VydCBHbG9iYWwgQ0EgRzIwHhcNMTcxMTIyMDAwMDAwWhcNMTgxMTIxMTIw
+MDAwWjBpMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UE
+BxMHU2VhdHRsZTEYMBYGA1UEChMPQW1hem9uLmNvbSBJbmMuMRkwFwYDVQQDDBAq
+LmNsb3VkZnJvbnQubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+o9KMZ+HKu9c/ystE8QBIrDea9ZcPkuG6/gi0O0mp2rRsYCHavM/SyBRyhdIN5A0y
+9tX8l3Ei0M5sTmF0TCXS8Jmctwh+1pmokHotEJU+UtNS9iqW3nsBfsuoaa4a6Uhd
+b4Ciw22jjJq8CX+I3/22Hu9dG/Ndi2HyFx2CurzLMhtBxF2GxNAb/pnTPprsYWAj
+JIfDBU+bu/xhINTeOm2o0FTI6cIXuvgxWqa7OMOIcJwZ2DiAxiw9f4Tkw4i+vS7w
+ut7JRRpfZzVf23M7Ks0k+bI0cNJ0FFsImiWrdEJ1FHachQKdM4B/TFPVvzlKvj6N
+3CGs1VfPyp8epW3AYWcPeQIDAQABo4IC8zCCAu8wHwYDVR0jBBgwFoAUJG4rLdBq
+klFRJWkBqppHponnQCAwHQYDVR0OBBYEFDduUSIWNLfd/7A9+56K4fNRBB0kMCsG
+A1UdEQQkMCKCECouY2xvdWRmcm9udC5uZXSCDmNsb3VkZnJvbnQubmV0MA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdwYDVR0f
+BHAwbjA1oDOgMYYvaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
+YmFsQ0FHMi5jcmwwNaAzoDGGL2h0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydEdsb2JhbENBRzIuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYI
+KwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIC
+MHQGCCsGAQUFBwEBBGgwZjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNl
+cnQuY29tMD4GCCsGAQUFBzAChjJodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20v
+RGlnaUNlcnRHbG9iYWxDQUcyLmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUA
+AAFf4RRGUQAABAMARzBFAiBYd8E/jm2edsDB3L+Y7DtQ5LFIMqRufOgZWcJK80Ui
++gIhALvajjPRGQYpp+I6bc4jdCF+x0E0bKzB9RVgRS5Ndr7uAHYAh3W/51l8+IxD
+mV+9827/Vo1HVjb/SrVgwbTq/16ggw8AAAFf4RRGgAAABAMARzBFAiBpkGnFG/Xi
+SjpKgyowScd+3th9IQ1JC2bq/oAADAGb/AIhAOU3b4N9MTl9RuyVVHxyVmEl687S
+L//qmx0X7qMp5ae6MA0GCSqGSIb3DQEBCwUAA4IBAQBJ8o7NMkRnn1/vMsT5+bD2
+KSYXy4oQPcPsVrJv6g11QwwRyVlF10pHMKDb7FXSnWT/hax/ELEUfjTGxH7hh3aK
+nmzmNaF8fT4+KnfYki2OwESF2T+PXCJrXdv4sx7CpWE0JQxTLQFP4VoOvtujt03m
+MInt4Y/cXtDKWN5vD5lekqRm35DF1dYtHb7fqmtee1EDkOhh+agWAUH4DeMiLH6T
+cVgnwNwG2q1a870hvlLotQpCyM7TbsSSPlrDGk2hqeqGPEyxk6Zl79epEktTxHpa
+bLweTBhYzpW1XfNK8uzOFxY0HMtBIpwlPcjuNgMKoS0N3S/7MeRK1bWR5zy7iPGc
+-----END CERTIFICATE-----
+subject=/C=US/ST=Washington/L=Seattle/O=Amazon.com Inc./CN=*.cloudfront.net
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global CA G2
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4145 bytes and written 456 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES256-SHA
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: 3D407F0A30AEB17223A896F5C99CCE0B52270C82FAD6B80497523F6E9F433E2D36B372F731F5DBA334CF39562773F69F
+    Key-Arg   : None
+    Start Time: 1523531234
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---
+closed
